@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bv-java-grupa-2/bv-java-grupa-2.iml" filepath="$PROJECT_DIR$/bv-java-grupa-2/bv-java-grupa-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/bv-java-grupa-2/homework-1/homework-1.iml" filepath="$PROJECT_DIR$/bv-java-grupa-2/homework-1/homework-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bv-java-grupa-2/homework-1/homework-1.iml" filepath="$PROJECT_DIR$/bv-java-grupa-2/homework-1/homework-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bv-java-grupa-2/homework-2/homework-2.iml" filepath="$PROJECT_DIR$/bv-java-grupa-2/homework-2/homework-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bv-java-grupa-2/homework-3/homework-3.iml" filepath="$PROJECT_DIR$/bv-java-grupa-2/homework-3/homework-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/scoala-informala-homework.iml" filepath="$PROJECT_DIR$/scoala-informala-homework.iml" />
     </modules>
   </component>
